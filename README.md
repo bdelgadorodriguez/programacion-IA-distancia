@@ -1,5 +1,5 @@
-#__PROGRAMACION IA A DISTANCIA__  
-##Tarea correspondiente a la unidad 1  
+# __PROGRAMACION IA A DISTANCIA__  
+## Tarea correspondiente a la unidad 1  
 En este primer ejercicio se propone realizar dos tareas
 1. Iniciacion con Github
    - Creacion de cuenta de usuario
